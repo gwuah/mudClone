@@ -1,7 +1,5 @@
-<img src="https://github.com/gwuah/mudClone/blob/master/img/logo.png"><br>
+<img src="https://github.com/gwuah/mudClone/blob/master/img/logo.png">
 <h1>MudClone</h1>
-
-<hr>
 
  <h3>What is Mudclone</h3>
  Mudclone is a "search engine" built to knock Mudclo of their feet.
@@ -14,5 +12,19 @@
  
  <h3>How To Use It</h3>
  Just enter the name of the video you want to search for and Mudclone will fetch and return them within a second
+ 
+ <h3>TO DO</h3>
+ <ul>
+ <li>Make It Responsive</li>
+ <li>Insert Iframes so users can watch video directly on the site</li>
+ <li>Style the buttons(Life is too short to spend all your time writing css :laughing:)</li>
+ <li>Rebranding ... </li>
+ </ul>
+ 
+ <h3>EXtra</h3>
+ Try hovering our logo :stuck_out_tongue_winking_eye:
+ 
+ 
+ Lets make search engines great again :trollface: :trollface: !! 
  
  
