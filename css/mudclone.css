@@ -1,0 +1,122 @@
+/* custom css written for mudclone */
+
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #ffc600;
+}
+
+.jumpingChars span {
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.2);
+  position: relative;
+  display: inline-block;
+  transition: transform 0.1s;
+  cursor:url('http://csscursor.info/source/santahand.png'), default;
+}
+
+.jumpingChars span:hover {
+  transform:translateY(-20px) scale(2) rotate(5deg);
+  z-index: 1;
+}
+
+#appName {
+  font-family: 'Economica', sans-serif;
+  text-align: center;
+  font-size: 70px;
+  font-weight: 100 ;
+  margin-top: -2px;
+}
+
+#search-box {
+  width: 400px ;
+  height: 30px ;
+  margin: 0 auto;
+  display: block;
+  margin-top: -50px;
+  font-size: 20px;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#fake-search {
+  width: 100px ;
+  height: 30px ;
+  border: none;
+  border-radius: 4px;
+  display: block;
+  margin: 0px auto;
+  font-family: 'Englebert', sans-serif;
+  font-size: 23px;
+  color: white;
+  background-color: black;
+}
+
+#fake-search:hover {
+  cursor: pointer;
+  border-color: none;
+}
+
+.thumbnail {
+  height: 250px;
+  width: 100% ;
+  background-color: black;
+}
+
+.thumbnail img {
+  height: 100% ;
+  width: 100%;
+}
+
+.excerpt {
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+
+}
+
+.excerpt span {
+  font-size: 15px;
+  font-family: 'Skranji', cursive;
+}
+
+.ctw {
+  display: block;
+  position: relative;
+  top: -290px;
+  margin: 0 auto;
+  height: 30px;
+  width: 100%;
+  font-family: 'Overlock SC', cursive;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+#youtube-icon {
+  font-size: 17px;
+}
+
+.ctw:hover {
+  cursor: pointer;
+}
+
+.infoBox {
+  height: 380px;
+}
+
+.flex-grid-thirds {
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
