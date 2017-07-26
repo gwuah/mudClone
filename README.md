@@ -5,7 +5,7 @@
  Mudclone is a "search engine" built to knock Mudclo of their feet.
  
  <h3>UI</h3>
- <img src="https://github.com/gwuah/mudClone/blob/master/img/final-look.PNG">\
+ <img src="https://github.com/gwuah/mudClone/blob/master/img/final-look.PNG">
  <img src="https://github.com/gwuah/mudClone/blob/master/img/mudclo-final-page.PNG">
  
  Sleek!! You'd agree with me that its better than google.. :zap:
@@ -24,7 +24,7 @@
  <h3>EXtra</h3>
  Try hovering our logo :stuck_out_tongue_winking_eye:
  
- 
- Lets make search engines great again :trollface: :trollface: !! 
+ <br>
+ <strong>Lets make search engines great again</strong> :trollface: :trollface: !! 
  
  
